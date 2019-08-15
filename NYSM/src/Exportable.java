@@ -1,0 +1,4 @@
+
+interface Exportable {
+	 void export();
+}
